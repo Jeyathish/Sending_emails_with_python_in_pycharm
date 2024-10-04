@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/next.iml" filepath="$PROJECT_DIR$/.idea/next.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sending_emails_with_python_in_pycharm.iml" filepath="$PROJECT_DIR$/.idea/Sending_emails_with_python_in_pycharm.iml" />
     </modules>
   </component>
 </project>
